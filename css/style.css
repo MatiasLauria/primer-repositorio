@@ -83,6 +83,10 @@ body {
 
 }
 
+.navbar .menu a:hover {
+    color: lightseagreen;
+}
+
 
 
 
